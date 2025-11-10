@@ -9,6 +9,7 @@ backend/ReciptIQ/bin/
 backend/ReciptIQ/obj/
 backend/ReciptIQ/.vs/
 backend/ReciptIQ/appsettings.*.json
+backend/ReciptIQ/appsettings*.json
 
 # General
 .DS_Store
