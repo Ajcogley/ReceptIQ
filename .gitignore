@@ -5,10 +5,10 @@ frontend/.env.local
 frontend/build/
 
 # .NET Core
-backend/bin/
-backend/obj/
-backend/.vs/
-backend/appsettings.*.json
+backend/ReciptIQ/bin/
+backend/ReciptIQ/obj/
+backend/ReciptIQ/.vs/
+backend/ReciptIQ/appsettings.*.json
 
 # General
 .DS_Store
