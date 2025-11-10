@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "zAfH2qZqTKk/8Z/nfkrRvdMi05eCWXNh2rJZmn5MX/Q=",
+  "Source": "ReciptIQ",
+  "BasePath": "_content/ReciptIQ",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ReciptIQ\\wwwroot",
+      "Source": "ReciptIQ",
+      "ContentRoot": "C:\\Users\\antco\\OneDrive\\Documents\\ReceptIQ\\backend\\ReciptIQ\\wwwroot\\",
+      "BasePath": "_content/ReciptIQ",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
